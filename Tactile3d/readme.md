@@ -39,8 +39,11 @@ Within the Tactile 3D environment many of the properties you'd associate with a 
 
 ## Serial key:
 Serial key: ``Tactile3D 0002 0002 de_Generat 444@@ 555-- 66666 77777 KE2PL-TLZ5X-K4T3F-X4SDX-84RBS EndKey``  
+
 In theory, this key works. That is, it doesn't say "Key invalid", but because the authentication server is extinct, there is no way for this string to have a positive impact. As such, it is on a 31-day evaluation timer. If I knew anything about debugging/decompiling, fucking with this check would be no sweat, but I don't have the wherewithal to do that right now.  
+
 This key was found by myself in 2009 for a guy who named himself 'Tenryo Kevin'. I don't have more information, because I cannot be bothered now to decode the **MSN Messenger** history XML file that the conversation took place in.  
 I think he got mad because he saw me playing *Pokémon Go* once (for some reason, he called me a Libertarian pig, or something), and we left on terms that were bad entirely because of his fault. I hope he's doing well, and that he has matured. Or that his investigation into the existence of an afterlife has borne fruit, like I initially bade him.  
+
 
 Asshole.
